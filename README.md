@@ -18,8 +18,8 @@ gcc cgRNASP-CN.c -lm -o cgRNASP-CN
 # 15_3dRNAAS2_2_rpr.pdb   -168.510059 kBT
 
 Note: the subfolder "data/" and compiled "cgRNASP-CN" should be in the same folder.
-Please feel free to contact us if you have any question! zjtan@whu.edu.cn
 ```
+Please feel free to contact us if you have any question! zjtan@whu.edu.cn
 
 Reference:                                      
 [1]  Song L, Yu S, Wang X, Tan YL, & Tan ZJ. 2022. cgRNASP-CN: a minimal coarse-grained representation-based statistical potential for RNA 3D structure evaluation. Commun Theor Phys, 74(7): 075602.
