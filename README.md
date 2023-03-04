@@ -21,3 +21,6 @@ Note: the subfolder "data/" and compiled "cgRNASP-CN" should be in the same fold
 Please feel free to contact us if you have any question! zjtan@whu.edu.cn
 ```
 
+Reference:
+
+[1] Song L, Yu S, Wang X, Tan YL, & Tan, Z. J. 2022. cgRNASP-CN: a minimal coarse-grained representation-based statistical potential for RNA 3D structure evaluation. Commun Theor Phys, 74(7): 075602.
